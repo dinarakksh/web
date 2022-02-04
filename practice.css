@@ -1,0 +1,25 @@
+1) In CSS, how would you select this image by its id?
+<img id="mainpic" src="cat.png">
+Choose 1 answer:
+
+
+(Choice A, Checked, Correct)
+CORRECT (SELECTED)
+#mainpic { }
+
+2) In CSS, how would you select all the <p> tags on a page?
+Choose 1 answer:
+
+(Choice B, Checked, Correct)
+CORRECT (SELECTED)
+p { }
+
+4) In CSS, how would you select only the list items with class name "important"?
+<ul>
+  <li class="important">Wash dishes</li>
+  <li>Finish crossword</li>
+  <li class="important">Feed chickens</li>
+</ul> 
+
+CORRECT (SELECTED)
+.important { }
